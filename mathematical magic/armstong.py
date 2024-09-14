@@ -10,7 +10,7 @@ while  temp > 0:
     resultmaaker=resultmaker+rem**digits
     temp=temp//10
 
-if number=resultmaker:
+if number==resultmaker:
     print("the number is armstrong")
 
 else:
