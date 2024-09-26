@@ -13,3 +13,4 @@ if(num1^1==num1+1):
 
 else:
     print("the number is a odd number")
+
